@@ -1,3 +1,5 @@
+Had used the st-link bootloader from this:
+                                      https://github.com/Krakenw/Stlink-Bootloaders
 # stm32f103c8t6-jlink
 C8T6核心板JLINK固件<br>
 the bibi.bin is   FW:J-Link STLink V2 compiled Jun 26 2017 10:34:41,  this version can be reflashed to stlink or update the j-link fw.<br>
